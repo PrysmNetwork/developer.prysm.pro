@@ -1,0 +1,11 @@
+title: Developer Docs
+email: developer@prysm.pro
+description: >-
+  Official developer documentation for Prysm Network.
+baseurl: "/"
+url: "https://developer.prysm.pro"
+remote_theme: pmarsceill/just-the-docs
+back_to_top: true
+back_to_top_text: "Back to top"
+
+footer_content: "Copyright &copy; 2021 Prysm Network."
